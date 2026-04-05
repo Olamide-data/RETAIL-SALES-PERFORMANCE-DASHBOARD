@@ -1,7 +1,7 @@
 # -SALES-PERFORMANCE-ANALYSIS
 
 **Project Overview**
-
+------
 This data analysis project evaluates sales performance across four Nigerian cities, identifies top performing products, sales reps and regions, and generates insights that support data-driven business decisions. This project was completed as part of my learning journey as I transition into a data analyst role.
 
 ![Dashboard](https://github.com/user-attachments/assets/282f2c73-b034-498c-a9d3-fbde9b717cf2)
