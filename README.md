@@ -4,6 +4,10 @@
 
 This data analysis project evaluates sales performance across four Nigerian cities, identifies top performing products, sales reps and regions, and generates insights that support data-driven business decisions. This project was completed as part of my learning journey as I transition into a data analyst role.
 
+![Dashboard](https://github.com/user-attachments/assets/282f2c73-b034-498c-a9d3-fbde9b717cf2)
+![pivot](https://github.com/user-attachments/assets/c6ae1531-d27e-4abb-b978-69c4bc738216)
+
+
 **Data Sources**
 
 The primary dataset used for this analysis is the “Sales Performance.xlsx” file, containing detailed sales transaction records across Lagos, Kano, Port Harcourt, and Abuja.
